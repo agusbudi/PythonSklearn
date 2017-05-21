@@ -8,3 +8,5 @@ how to run :
 1. Open cmd and change your directory (by typing "cd /type_directory_name")
 2. Type : "python BasicTest.py"
 3. Enjoy :)
+
+credit of scikit-learn: http://scikit-learn.org/
